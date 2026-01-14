@@ -1,0 +1,182 @@
+[
+    {
+        "date": "2024-01-01",
+        "prophet_prediction": 13395139958.023659,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395137723.01183
+    },
+    {
+        "date": "2024-01-02",
+        "prophet_prediction": 13395139456.37086,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395137472.185429
+    },
+    {
+        "date": "2024-01-03",
+        "prophet_prediction": 13395138816.748722,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395137152.374361
+    },
+    {
+        "date": "2024-01-04",
+        "prophet_prediction": 13395138062.426836,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395136775.213417
+    },
+    {
+        "date": "2024-01-05",
+        "prophet_prediction": 13395137196.539457,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395136342.26973
+    },
+    {
+        "date": "2024-01-06",
+        "prophet_prediction": 13395136084.43135,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395135786.215675
+    },
+    {
+        "date": "2024-01-07",
+        "prophet_prediction": 13395134845.06212,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395135166.53106
+    },
+    {
+        "date": "2024-01-08",
+        "prophet_prediction": 13395133378.764034,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395134433.382017
+    },
+    {
+        "date": "2024-01-09",
+        "prophet_prediction": 13395131666.816753,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395133577.408377
+    },
+    {
+        "date": "2024-01-10",
+        "prophet_prediction": 13395129714.312164,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395132601.156082
+    },
+    {
+        "date": "2024-01-11",
+        "prophet_prediction": 13395127549.021479,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395131518.510738
+    },
+    {
+        "date": "2024-01-12",
+        "prophet_prediction": 13395125180.018814,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395130334.009407
+    },
+    {
+        "date": "2024-01-13",
+        "prophet_prediction": 13395122479.955233,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395128983.977615
+    },
+    {
+        "date": "2024-01-14",
+        "prophet_prediction": 13395119576.361242,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395127532.180622
+    },
+    {
+        "date": "2024-01-15",
+        "prophet_prediction": 13395116379.27456,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395125933.63728
+    },
+    {
+        "date": "2024-01-16",
+        "prophet_prediction": 13395112880.659084,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395124184.329542
+    },
+    {
+        "date": "2024-01-17",
+        "prophet_prediction": 13395109097.091423,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395122292.545712
+    },
+    {
+        "date": "2024-01-18",
+        "prophet_prediction": 13395105068.430983,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395120278.215492
+    },
+    {
+        "date": "2024-01-19",
+        "prophet_prediction": 13395100816.232073,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395118152.116035
+    },
+    {
+        "date": "2024-01-20",
+        "prophet_prediction": 13395096225.796717,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395115856.898357
+    },
+    {
+        "date": "2024-01-21",
+        "prophet_prediction": 13395091437.251137,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395113462.625568
+    },
+    {
+        "date": "2024-01-22",
+        "prophet_prediction": 13395086372.947874,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395110930.473938
+    },
+    {
+        "date": "2024-01-23",
+        "prophet_prediction": 13395081036.664616,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395108262.332308
+    },
+    {
+        "date": "2024-01-24",
+        "prophet_prediction": 13395075456.081238,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395105472.040619
+    },
+    {
+        "date": "2024-01-25",
+        "prophet_prediction": 13395069681.255785,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395102584.627892
+    },
+    {
+        "date": "2024-01-26",
+        "prophet_prediction": 13395063742.862482,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395099615.43124
+    },
+    {
+        "date": "2024-01-27",
+        "prophet_prediction": 13395057534.094393,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395096511.047195
+    },
+    {
+        "date": "2024-01-28",
+        "prophet_prediction": 13395051201.617178,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395093344.80859
+    },
+    {
+        "date": "2024-01-29",
+        "prophet_prediction": 13395044672.878733,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395090080.439365
+    },
+    {
+        "date": "2024-01-30",
+        "prophet_prediction": 13395037955.247793,
+        "lstm_prediction": 13395135488.0,
+        "hybrid_prediction": 13395086721.623898
+    }
+]
