@@ -1,0 +1,8 @@
+dataset_type: Hospital Directory
+date_strategy: Synthetic Daily Timeline
+forecast_horizon_days: 30
+models:
+- Prophet
+- LSTM
+- Hybrid
+target: occupied_beds (simulated)
