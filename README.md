@@ -110,7 +110,7 @@ Correlation heatmap
 
 
 
-![Confusion Matrix Heatmap](bis_heatmap.png)
+![Confusion Matrix Heatmap](bis_accuracy_graph.png)
 
 
 
