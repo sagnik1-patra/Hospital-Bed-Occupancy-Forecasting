@@ -1,4 +1,4 @@
-🏥 AI-Powered Hospital Bed Occupancy Forecasting
+🏥 AI-Powered Hospital Bed Occupancy Forecasting.
 Hybrid Meta-Heuristic Optimized LSTM Models
 📌 Project Overview
 
